@@ -1,0 +1,7 @@
+cd = change directory 
+touch= generar texto 
+rm= remover
+restore= restaurar archivo 
+git add
+git config
+git status list 
